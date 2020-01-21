@@ -11,5 +11,5 @@ Included please turn speakers on to hear.
 ##Please make sure all the pictures and songs are in the same file as the game or else the game cannot function properly.
 
 EDIT JANUARY 2020:
-This game was created in 2016/2017 so the readme and the organization of the Python code was not the best. 
+This game was created in 2016/2017 so the readme and the organization of the files/code was not the best. 
 
